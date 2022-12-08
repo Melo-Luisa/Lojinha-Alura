@@ -14,7 +14,7 @@
 <strong>Situação:</strong>
 ✅ Finish
 
-<h2 align="center">COmposição:</h2
+<h2 align="center">COMPOSIÇÃO:</h2
 
 - Cabeçalho:
 ![image](https://user-images.githubusercontent.com/97964206/206589525-775f9ea1-841f-4f56-8fb0-11edc23446e8.png)
