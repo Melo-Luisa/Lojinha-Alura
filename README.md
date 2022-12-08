@@ -2,7 +2,7 @@
  Curso de FLEXBOX na Alura
  Linguagens Utilizadas: HTML | CSS
 
- 📃 <a href='https://github.com/Melo-Luisa/Lojinha-Alura'>Repositório</a> | 🌐 <a href='https://melo-luisa.github.io/lojinha-alura'>Page</a> 
+ 📃 <a href='https://github.com/Melo-Luisa/Lojinha-Alura'>Repositório</a> | 🌐 <a href='https://melo-luisa.github.io/Lojinha-Alura/'>Page</a> 
  
  <h2>Objetivo</h2>
  <p>Criação de uma página WEB de curso de programação 🥝</p>
