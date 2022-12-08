@@ -1,4 +1,4 @@
-                            Lojinha Alura
+   #                         Lojinha Alura
  Curso de FLEXBOX na Alura
  Linguagens Utilizadas: HTML | CSS
 
